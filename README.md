@@ -18,7 +18,7 @@ You might also encounter Devops tools, scripts, including but not limited to:
  - Docker, compose
  - Jenkins
  - Build tools (CMAKE, Gradle, Maven)
- - 
+   
 
 I also ❤️ OSS and always looking for ways to contribute!
 Reach me on X: https://x.com/devngugi
