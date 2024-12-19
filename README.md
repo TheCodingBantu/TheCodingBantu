@@ -22,5 +22,5 @@ You might also encounter Devops tools, scripts, including but not limited to:
 
 I also ❤️ OSS and always looking for ways to contribute!
 Reach me on X: https://x.com/devngugi
-[![Philemon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thecodingbantu)](https://github.com/thecodingbantu/github-readme-activity-graph)
-http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={username}&theme={theme_name}
+[![Philemon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thecodingbantu&theme=dracula)](https://github.com/thecodingbantu/github-readme-activity-graph)
+[![Philemon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thecodingbantu&theme=github-compact)](https://github.com/thecodingbantu/github-readme-activity-graph)
