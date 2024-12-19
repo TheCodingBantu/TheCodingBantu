@@ -25,3 +25,5 @@ Reach me on X: https://x.com/devngugi
 [![Philemon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=thecodingbantu&theme=github-compact)](https://github.com/thecodingbantu/github-readme-activity-graph)
 ![Philemon's GitHub stats](https://github-readme-stats.vercel.app/api?username=thecodingbantu&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thecodingbantu&layout=compact)
+
+![Commit per Language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thecodingbantu&theme=github_dark)
